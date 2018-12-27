@@ -1,7 +1,14 @@
 ﻿
 
+---
+layout: post
+title: 'Linux 配置oh_my_zsh+powerline'
+date: 2018-12-26
+author: Jacob
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: linux
 
-
+---
 
 
 

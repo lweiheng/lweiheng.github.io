@@ -1,4 +1,13 @@
-﻿
+---
+layout: post
+title: 'Windows Server 2012 R2单域及域森林环境搭建'
+date: 2018-12-26
+author: Jacob
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: Domain
+
+---
+
 
 
 
