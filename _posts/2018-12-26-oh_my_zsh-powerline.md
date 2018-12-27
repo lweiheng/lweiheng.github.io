@@ -1,5 +1,3 @@
-﻿
-
 ---
 layout: post
 title: 'Linux 配置oh_my_zsh+powerline'
