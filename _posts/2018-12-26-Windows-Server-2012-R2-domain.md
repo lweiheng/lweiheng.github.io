@@ -22,8 +22,7 @@ tags: Domain
 <center><h1>Windows Server 2012 R2单域及域森林环境搭建</h1></center>
 
 
-
-@[toc]
+* TOC
 # 1 单域环境搭建
 
 ##  1 引    言

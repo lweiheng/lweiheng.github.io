@@ -1,6 +1,16 @@
+---
+layout: post
+title: 'EarthWorm 常用命令总结'
+date: 2018-12-27
+author: Jacob
+cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
+tags: Tools
+
+---
+
 # EarthWorm 常用命令总结
 
-[TOC]
+* TOC
 
 ## 0 介绍
 
