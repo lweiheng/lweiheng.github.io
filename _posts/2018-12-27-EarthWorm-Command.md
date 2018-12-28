@@ -10,7 +10,7 @@ tags: Tools
 
 # EarthWorm 常用命令总结
 
-* TOC
+*TOC
 
 ## 0 介绍
 
