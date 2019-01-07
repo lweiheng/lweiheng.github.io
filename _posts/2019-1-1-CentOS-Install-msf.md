@@ -6,9 +6,7 @@ author: Jacob
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
 tags: tools
 
-
 ---
-
 
 # CentOS 7 安装 metasploit-framework
 
