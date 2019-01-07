@@ -1,6 +1,6 @@
 ---
 layout: post
-title:'CentOS 7 安装 metasploit-framework'
+title: 'CentOS 7 安装 metasploit-framework'
 date: 2019-1-1
 author: Jacob
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-banner.png'
